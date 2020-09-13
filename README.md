@@ -8,9 +8,9 @@ Zhen-Liang Ni, Gui-Bin Bian, Xiao-Hu Zhou, Zeng-Guang Hou, Xiao-Liang Xie, Chen 
 
 Chinese introduction： https://blog.csdn.net/big_dreamer1/article/details/101228624
 
-![Image](https://github.com/nizhenliang/LWANet/blob/master/img/lwdnet.png)
+![Image](https://github.com/nizhenliang/RAUNet/blob/master/img/RAUNet.png)
 
-![Image](https://github.com/nizhenliang/LWANet/blob/master/img/lwdnet.png)
+![Image](https://github.com/nizhenliang/RAUNet/blob/master/img/AAM.png)
 
 ## Citation
 If you find RAUNet useful in your research, please consider citing:
