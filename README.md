@@ -7,6 +7,7 @@ arxiv: https://arxiv.org/abs/1909.10360
 Zhen-Liang Ni, Gui-Bin Bian, Xiao-Hu Zhou, Zeng-Guang Hou, Xiao-Liang Xie, Chen Wang, Yan-Jie Zhou, Rui-Qi Li, Zhen Li
 
 Chinese introduction： https://blog.csdn.net/big_dreamer1/article/details/101228624
+
 Note: The size of the input image should be divisible by 32.
 
 ![Image](https://github.com/nizhenliang/RAUNet/blob/master/img/RAUNet.png)
